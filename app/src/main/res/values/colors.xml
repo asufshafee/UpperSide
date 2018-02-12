@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#027065</color>
+    <color name="colorPrimaryDark">#00261E</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="colorTex">#585858</color>
+    <color name="colordevider">#64dad8d8</color>
+    <color name="colorblue">#4c71f5</color>
+    <color name="colorSub">#b0afaf</color>
+
+
+
+    <color name="listsub1">#7b7b7b</color>
+    <color name="listsub2">#9e9e9e</color>
+    <color name="listtext">#585858</color>
+    <color name="text">#26262e</color>
+    <color name="white">#ffffff</color>
+
+    <color name="subtext">#a1a1a1</color>
+</resources>

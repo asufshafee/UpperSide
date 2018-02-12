@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F5F9"
+    android:orientation="vertical"
+    tools:context="com.app.upperside.Splash">
+
+    <customfonts.MyTextView1
+        android:layout_marginTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Money Maker"
+        android:textColor="@color/colorPrimary"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="10dp"
+        />
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:src="@drawable/plash"
+        android:padding="30dp"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
